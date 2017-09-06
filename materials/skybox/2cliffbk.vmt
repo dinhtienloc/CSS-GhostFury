@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "skybox/2cliffbk"
+	"$nofog" 1
+	"$ignorez" 1
+}
